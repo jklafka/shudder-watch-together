@@ -1,2 +1,2 @@
-# shudder-watch-together
-Watch Together Chrome extension to use with the Shudder streaming service.
+# Shudder Watch Together extension
+Watch Together Chrome extension to use with the [Shudder streaming service](https://www.shudder.com/).
